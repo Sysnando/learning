@@ -1,0 +1,5 @@
+com/microservice/config/ApplicationConfig.class
+com/microservice/config/Application.class
+com/microservice/rest/CustomerRest.class
+com/microservice/rest/Customer.class
+com/microservice/config/ApplicationConfig$JerseyConfig.class
